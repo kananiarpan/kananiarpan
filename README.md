@@ -67,8 +67,8 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 📧 &emsp; Reach me anytime: arpan1410kanani@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/kananiarpan/memyself&i/issues)
 
 </p>
 
